@@ -16,3 +16,17 @@ F:\学习资料\vs2015github\CKandDG\ChuanKou\bin\Debug\ChuanKou.exe.config
 F:\学习资料\vs2015github\CKandDG\ChuanKou\obj\Debug\ChuanKou.exe
 F:\学习资料\vs2015github\CKandDG\ChuanKou\obj\Debug\ChuanKou.xml
 F:\学习资料\vs2015github\CKandDG\ChuanKou\obj\Debug\ChuanKou.pdb
+F:\学习资料\vs2015github\vs2015\bin\Debug\ChuanKou.exe.config
+F:\学习资料\vs2015github\vs2015\obj\Debug\ChuanKou.exe
+F:\学习资料\vs2015github\vs2015\obj\Debug\ChuanKou.xml
+F:\学习资料\vs2015github\vs2015\obj\Debug\ChuanKou.pdb
+F:\学习资料\vs2015github\vs2015\bin\Debug\ChuanKou.exe
+F:\学习资料\vs2015github\vs2015\bin\Debug\ChuanKou.pdb
+F:\学习资料\vs2015github\vs2015\bin\Debug\ChuanKou.xml
+F:\学习资料\vs2015github\vs2015\obj\Debug\ChuanKou.vbprojResolveAssemblyReference.cache
+F:\学习资料\vs2015github\vs2015\obj\Debug\ChuanKou.Form1.resources
+F:\学习资料\vs2015github\vs2015\obj\Debug\ChuanKou.Resources.resources
+F:\学习资料\vs2015github\vs2015\obj\Debug\ChuanKou.vbproj.GenerateResource.Cache
+F:\学习资料\vs2015github\vs2015\bin\Debug\UCT.dll
+F:\学习资料\vs2015github\vs2015\bin\Debug\UCT.pdb
+F:\学习资料\vs2015github\vs2015\bin\Debug\UCT.xml

@@ -64,9 +64,9 @@ Namespace My
     Friend Module MySettingsProperty
         
         <Global.System.ComponentModel.Design.HelpKeywordAttribute("My.Settings")>  _
-        Friend ReadOnly Property Settings() As Global.UDGC.My.MySettings
+        Friend ReadOnly Property Settings() As Global.UCT.My.MySettings
             Get
-                Return Global.UDGC.My.MySettings.Default
+                Return Global.UCT.My.MySettings.Default
             End Get
         End Property
     End Module

@@ -94,9 +94,9 @@ Public Class Form1
         p3.Y = 44
         D_i += 1
         If D_i = 1 Then
-            UCT11.DGL(pen, p1, p2)
+            Uct1.DGL(pen, p1, p2)
         Else
-            UCT11.DGL(pen, p2, p3)
+            Uct1.DGL(pen, p2, p3)
         End If
 
     End Sub

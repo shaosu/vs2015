@@ -8,17 +8,17 @@ Imports System.Runtime.InteropServices
 
 '查看程序集特性的值
 
-<Assembly: AssemblyTitle("UDGC")> 
+<Assembly: AssemblyTitle("UCT")> 
 <Assembly: AssemblyDescription("")> 
 <Assembly: AssemblyCompany("")> 
-<Assembly: AssemblyProduct("UDGC")> 
+<Assembly: AssemblyProduct("UCT")> 
 <Assembly: AssemblyCopyright("Copyright ©  2016")> 
 <Assembly: AssemblyTrademark("")> 
 
 <Assembly: ComVisible(False)>
 
 '如果此项目向 COM 公开，则下列 GUID 用于类型库的 ID
-<Assembly: Guid("2b8c23a7-77af-48c9-96c2-5a94e227c685")> 
+<Assembly: Guid("58c5bb6e-2fdb-4d3b-a162-24b0d45b9c58")> 
 
 ' 程序集的版本信息由下列四个值组成: 
 '
@@ -29,7 +29,6 @@ Imports System.Runtime.InteropServices
 '
 '可以指定所有这些值，也可以使用“生成号”和“修订号”的默认值，
 ' 方法是按如下所示使用“*”: :
-' <Assembly: AssemblyVersion("1.0.*")> 
 
-<Assembly: AssemblyVersion("1.0.0.0")> 
+<Assembly: AssemblyVersion("1.0.*")> 
 <Assembly: AssemblyFileVersion("1.0.0.0")> 

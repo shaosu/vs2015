@@ -33,7 +33,7 @@ Partial Class Form1
         Me.Button2 = New System.Windows.Forms.Button()
         Me.TxtSend = New System.Windows.Forms.TextBox()
         Me.Button3 = New System.Windows.Forms.Button()
-        Me.UcT11 = New WUDGC.UCT1()
+        Me.Uct1 = New UCT.UCT()
         Me.SuspendLayout()
         '
         'Tout
@@ -106,19 +106,19 @@ Partial Class Form1
         Me.Button3.Text = "Button3"
         Me.Button3.UseVisualStyleBackColor = True
         '
-        'UcT11
+        'Uct1
         '
-        Me.UcT11.Location = New System.Drawing.Point(394, 63)
-        Me.UcT11.Name = "UcT11"
-        Me.UcT11.Size = New System.Drawing.Size(406, 212)
-        Me.UcT11.TabIndex = 9
+        Me.Uct1.Location = New System.Drawing.Point(363, 53)
+        Me.Uct1.Name = "Uct1"
+        Me.Uct1.Size = New System.Drawing.Size(306, 222)
+        Me.Uct1.TabIndex = 9
         '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 12.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(1008, 462)
-        Me.Controls.Add(Me.UcT11)
+        Me.Controls.Add(Me.Uct1)
         Me.Controls.Add(Me.Button3)
         Me.Controls.Add(Me.TxtSend)
         Me.Controls.Add(Me.Button2)
@@ -144,5 +144,5 @@ Partial Class Form1
     Friend WithEvents Button2 As Button
     Friend WithEvents TxtSend As TextBox
     Friend WithEvents Button3 As Button
-    Friend WithEvents UcT11 As WUDGC.UCT1
+    Friend WithEvents Uct1 As UCT.UCT
 End Class
