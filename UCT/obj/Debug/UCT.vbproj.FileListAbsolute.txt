@@ -1,0 +1,10 @@
+F:\学习资料\vs2015github\vs2015\UCT\bin\Debug\UCT.dll
+F:\学习资料\vs2015github\vs2015\UCT\bin\Debug\UCT.pdb
+F:\学习资料\vs2015github\vs2015\UCT\bin\Debug\UCT.xml
+F:\学习资料\vs2015github\vs2015\UCT\obj\Debug\UCT.vbprojResolveAssemblyReference.cache
+F:\学习资料\vs2015github\vs2015\UCT\obj\Debug\UCT.Resources.resources
+F:\学习资料\vs2015github\vs2015\UCT\obj\Debug\UCT.UCT.resources
+F:\学习资料\vs2015github\vs2015\UCT\obj\Debug\UCT.vbproj.GenerateResource.Cache
+F:\学习资料\vs2015github\vs2015\UCT\obj\Debug\UCT.dll
+F:\学习资料\vs2015github\vs2015\UCT\obj\Debug\UCT.xml
+F:\学习资料\vs2015github\vs2015\UCT\obj\Debug\UCT.pdb
