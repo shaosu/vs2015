@@ -1,0 +1,9 @@
+F:\学习资料\vb\OIS.net\UDGC\bin\Debug\UDGC.dll
+F:\学习资料\vb\OIS.net\UDGC\bin\Debug\UDGC.pdb
+F:\学习资料\vb\OIS.net\UDGC\bin\Debug\UDGC.xml
+F:\学习资料\vb\OIS.net\UDGC\obj\Debug\UDGC.vbprojResolveAssemblyReference.cache
+F:\学习资料\vb\OIS.net\UDGC\obj\Debug\UDGC.Resources.resources
+F:\学习资料\vb\OIS.net\UDGC\obj\Debug\UDGC.vbproj.GenerateResource.Cache
+F:\学习资料\vb\OIS.net\UDGC\obj\Debug\UDGC.dll
+F:\学习资料\vb\OIS.net\UDGC\obj\Debug\UDGC.xml
+F:\学习资料\vb\OIS.net\UDGC\obj\Debug\UDGC.pdb
